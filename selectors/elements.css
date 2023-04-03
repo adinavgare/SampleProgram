@@ -1,0 +1,67 @@
+/* ELEMENT SELECTOR */
+/* p,
+a {
+    color: orange;
+}
+li{
+    list-style: square;
+} */
+
+
+/* CLASS SELECTOR */
+/* span.special,
+li.special
+{
+    color: blue;
+    font-weight: bold;
+} */
+
+
+/* DECENDED COMBINATORS */
+/* li em{
+    color:red;
+} */
+
+
+/* ADJUCENT COMBINATORS */
+/* h1+p {
+    font-size: 200%;
+} */
+
+
+/* PSUEDO CLASS SELECTOR(BASICALLY USED IN SUBMIT BUTTONS and BELOW CLASS IS PSUEDO CLASS SELECTOR) */
+ /* a:hover{
+    color: chartreuse;
+    text-decoration: none;
+ } */
+
+
+ /* MULTIPLE TAG SELECTOR */
+ /* body h1+p .special {
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+ } */
+
+ /* ID SELECTOR */
+ /* #heading{
+    color: red;
+    background-color: black;
+ } */
+
+ /* p#one {
+    color: crimson;
+ } */
+
+
+ /* ATTRIBUTE SELECTOR */
+ /* li[class] {
+    color: darkslateblue;
+ } */
+
+ /* EVERYTHING SELECTOR */
+ *{
+    list-style: square;
+ }
+ 
+
